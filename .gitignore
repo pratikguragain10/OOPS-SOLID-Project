@@ -1,0 +1,28 @@
+### **.gitignore**
+
+```gitignore
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Data files
+*.csv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Byte-compiled files
+*.pyo
+*.pyd
