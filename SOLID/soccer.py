@@ -1,6 +1,6 @@
 """Find the soccer team with the smallest goal difference using the Calculator class."""
 
-from calculator import Calculator
+from SOLID.calculator import Calculator
 
 if __name__ == "__main__":
     TEAM_COLUMN = 1

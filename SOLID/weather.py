@@ -1,6 +1,6 @@
 """Find the day with the smallest temperature spread using the Calculator class."""
 
-from calculator import Calculator
+from SOLID.calculator import Calculator
 
 if __name__ == "__main__":
     DAY_COLUMN = 1

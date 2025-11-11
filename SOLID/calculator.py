@@ -1,7 +1,7 @@
 """Module containing the Calculator class to run data extraction and analysis."""
 
-from data_extractor import DataExtractor
-from data_analyzer import DataAnalyzer
+from SOLID.data_extractor import DataExtractor
+from SOLID.data_analyzer import DataAnalyzer
 
 class Calculator:
     """Orchestrates the extraction and analysis of data from a file."""
